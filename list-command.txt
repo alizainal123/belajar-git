@@ -1,0 +1,19 @@
+1.ls -> melihat isi foder
+2.pwd -> melihat PATH folder
+3.cd -> mengakses folder
+4.mkdir -> membuat folder baru
+5.git config --list -> mengecek pengaturan git
+6.git status -> ngecek status git
+7.git log --graph -> melihat riwayat commit
+8.clear -> membersihkan tampilan terminal
+9.rm -r -> untuk menghapus folder
+10.git add . /NAMA_FILE -> untuk memindahkan hasil perubahan ke stagging
+11.git commit -> untuk menyimpn repository
+12.git chechout hash/nama_brach -> memindahkan head ke commit/brach tertentu
+13.git brach -> melihat semua cabang
+14.git init -> menginisiasi folder jadi repo
+15.git reflog -> untuk melihat riwayat commit yang baru
+16.git restore -> untuk undo file working area
+17.git remote add URL_GIT -> untuk menyambungkan git ke github
+18.git push NAMA_REMOTE BRACH -> untuk upload ke github
+19.git pull NAMA_REMOTE BRACH -> untuk dowload dari github ke local git
